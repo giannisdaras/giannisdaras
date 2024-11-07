@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Giannis Daras </h1>
-I am a fourth year Computer Science Ph.D. student at UT Austin, supervised by Alexandros G. Dimakis.
+CSAIL MIT Postdoc.
 
-My research is on generative models.
-
-
+Working on learning generative models from corrupted data.
